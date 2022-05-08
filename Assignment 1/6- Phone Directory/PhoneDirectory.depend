@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650330419 source:c:\users\admin\desktop\oop\phonedirectory\main.cpp
+	<iostream>
+	<chrono>
+	<vector>
+	<algorithm>
+

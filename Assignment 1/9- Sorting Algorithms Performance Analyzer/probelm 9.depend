@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650987053 source:c:\users\admin\desktop\oop\probelm 9\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<algorithm>
+	<chrono>
+	<map>
+	<time.h>
+

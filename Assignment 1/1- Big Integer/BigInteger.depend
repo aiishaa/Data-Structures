@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1651017482 source:c:\users\admin\desktop\oop\biginteger\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<assert.h>
+

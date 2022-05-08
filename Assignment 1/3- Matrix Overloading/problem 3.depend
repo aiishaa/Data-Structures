@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1650585846 source:c:\users\admin\desktop\oop\problem 3\main.cpp
+	"MatrixCalculator.cpp"
+	<iostream>
+	<iomanip>
+	<cassert>
+
+1650585511 c:\users\admin\desktop\oop\problem 3\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	<iostream>
+	<iomanip>
+	<cassert>
+
+1650584925 c:\users\admin\desktop\oop\problem 3\matrixcalculator.h
+	"Matrix.cpp"
+
+1651016959 c:\users\admin\desktop\oop\problem 3\matrix.cpp
+	"Matrix.h"
+
+1650987744 c:\users\admin\desktop\oop\problem 3\matrix.h
+	<iostream>
+	<iomanip>
+	<cassert>
+
